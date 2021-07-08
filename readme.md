@@ -1,6 +1,8 @@
 Nette test Project 
 ==================
 
+User registration to database via registration form and printout all users to list
+
 ## Required:
 - Apache 2.4
 - MySQL (MariaDB 10.4)
