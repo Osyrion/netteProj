@@ -33,3 +33,12 @@ CREATE TABLE example.users (
 localhost/netteProj/www
 ```
 
+
+## Troubleshooting
+
+If you have some problems with database connection, go to
+```
+app/config/common.neon
+app/config/local.neon
+```
+and update your DB credentials
